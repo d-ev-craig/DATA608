@@ -15,6 +15,7 @@ The context behind this assignment was to connect the relationship between risin
 ## What Critical Minerals to the U.S. are sourced from political rivals?
 This assignment focused on idnetifying at-risk critical minerals and their sources in the event of war or economic difficulties. Alternative sources, if any, are shown.
 
-![Crit_Mins]()
-![Enemy_Sourced]()
-![Shortfall_Impact]()
+![Crit_Mins](Major_Assignments/Story_7/figs/Crit_Minerals.png)
+![Enemy_Sourced](Major_Assignments/Story_7/figs/Enemy_Sourced.png)
+![Shortfall_Impact](Major_Assignments/Story_7/figs/Shortfall.png)
+
