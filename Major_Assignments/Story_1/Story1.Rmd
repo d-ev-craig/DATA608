@@ -1,0 +1,325 @@
+---
+title: "Story 1"
+author: "Daniel Craig"
+date: "2023-09-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(censusapi)
+library(tidycensus)
+library(tidyverse)
+library(readxl)
+```
+
+FIPS Codes were referenced from: https://www2.census.gov/geo/docs/reference/state.txt
+The specific dataset referenced for population counts: 
+  - https://api.census.gov/data/2021/pep/population
+  - https://api.census.gov/data.html
+  
+  
+  Backup Datasets:
+  - https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+  
+  
+FIPS labels defined here:
+  - https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html
+
+
+```{r Set API Key}
+#Set key in env
+#Sys.setenv(CENSUS_KEY="ec5ae6a2f37aea5c3266f5ee2e9052817098c8a2")
+
+# Reload .Renviron
+#readRenviron("~/.Renviron")
+
+# Check to see that the expected key is output in your R console
+#ckey <- Sys.getenv("CENSUS_KEY")
+
+ckey <- "ec5ae6a2f37aea5c3266f5ee2e9052817098c8a2"
+
+```
+
+
+```{r Explore Endpoints}
+apis <- listCensusApis()
+apis[apis$vintage == '2023',]
+
+head(listCensusMetadata(name = "pep/population", vintage = 2021, type = "variables"))
+
+```
+```{r Pull Data}
+
+#popState <- getCensus("pep/population", vintage = 2021, vars = c('POP_2021','GEO_ID'), key = ckey, region = "state")
+#popUS <- getCensus("pep/population", vintage = 2021, vars = 'POP_2021', key = ckey, region = "us")
+
+popState
+popUS
+```
+
+```{r Pull FIPS}
+#https://www.census.gov/library/reference/code-lists/ansi/ansi-codes-for-states.html
+
+FIPS <- read_delim(file = "C:\\Users\\dcrai\\source\\repos\\DATA608\\Major Assignments\\Story 1\\FIPS Codes.txt" , delim = '|')
+colnames(FIPS)[1] <- 'state'
+```
+
+```{r Load IIJA}
+
+iija <- read_xlsx("C:/Users/dcrai/source/repos/DATA608/Major Assignments/Story 1/IIJA FUNDING AS OF MARCH 2023.xlsx")
+colnames(iija)[1] <- "STATE_NAME"
+
+iija
+```
+
+
+```{r Join FIPS to Master}
+popState2 <- left_join(popState, FIPS, by = 'state')
+master <- popState2 %>% select(state,POP_2021,STUSAB,STATE_NAME)
+master$STATE_NAME <- toupper(master$STATE_NAME)
+master
+```
+
+```{r Join IIJA to Master}
+master <- left_join(master, iija, by = 'STATE_NAME')
+colnames(master)[5] <- "TOTAL_BILLIONS"
+is.na(master) #DELAWARE MISSING
+
+master[24,5] <- .7920 #DELAWARE
+master
+```
+```{r Table of Swing States}
+
+swing <- read_csv("C:/Users/dcrai/source/repos/DATA608/Major Assignments/Story 1/StateLean.csv")
+colnames(swing)[1] <- "STATE_NAME"
+swing$STATE_NAME <- toupper(swing$STATE_NAME)
+master <- left_join(master,swing, by = 'STATE_NAME')
+
+
+#Arizona	Yes	Democrat
+which(master == 'ARIZONA', arr.ind = TRUE)
+master[46,7] <- 'Swing(D)'
+
+#Florida	Yes	Republican
+which(master == 'FLORIDA', arr.ind = TRUE)
+master[41,7] <- 'Swing(R)'
+
+# Georgia	Yes	Democrat
+which(master == 'GEORGIA', arr.ind = TRUE)
+master[26,7] <- 'Swing(D)'
+
+# Michigan	Yes	Democrat
+which(master == 'MICHIGAN', arr.ind = TRUE)
+master[14,7] <- 'Swing(D)'
+
+# Minnesota	Yes	Democrat
+which(master == 'MINNESOTA', arr.ind = TRUE)
+master[28,7] <- 'Swing(D)'
+
+# Nevada	Yes	Democrat
+which(master == 'NEVADA', arr.ind = TRUE)
+master[6,7] <- 'Swing(D)'
+
+# North Carolina	Yes	Republican
+which(master == 'NORTH CAROLINA', arr.ind = TRUE)
+master[16,7] <- 'Swing(R)'
+
+# Ohio	Yes	Republican
+which(master == 'OHIO', arr.ind = TRUE)
+master[17,7] <- 'Swing(R)'
+
+# Pennsylvania	Yes	Democrat
+which(master == 'PENNSYLVANIA', arr.ind = TRUE)
+master[25,7] <- 'Swing(D)'
+
+# Wisconsin	Yes	Democrat
+which(master == 'WISCONSIN', arr.ind = TRUE)
+master[48,7] <- 'Swing(D)'
+
+
+
+colnames(master)[3] <- "abbr"
+
+
+master
+#master$PARTY <- as.factor(master$PARTY)
+
+```
+
+```{r Attach Resids to Master}
+lin_model <- lm(TOTAL_BILLIONS ~ POP_2021, data = master)
+summary(lin_model)
+
+res <- resid(lin_model)
+master$RESIDS <- res
+
+master %>% select(abbr,POP_2021,TOTAL_BILLIONS, RESIDS) %>% arrange(RESIDS) %>% head()
+```
+
+```{r}
+library(ggplot2)
+
+ggplot(master, aes(x = POP_2021, y = TOTAL_BILLIONS, color = PARTY,label = abbr)) +
+  geom_point() +  #scatterplot
+  scale_color_manual(values = c('D' = 'blue', #manually declare colors for parties
+                                'R' = 'red',
+                                'Swing(D)' = 'lightblue',
+                                'Swing(R)'='pink')
+                     ) +
+  geom_text(hjust = 0.5, vjust = -0.5) +  #add state abbrev
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(x = "Population", y = "Funding (Billions)",
+       title = "Population vs Funding by State") +
+  theme_minimal()
+
+```
+
+
+```{r}
+library(ggplot2)
+
+ggplot(master, aes(x = POP_2021, y = TOTAL_BILLIONS , label = abbr, color = PARTY)) +
+  geom_point() +  #scatterplot
+    scale_color_manual(values = c('D' = 'blue', #manually declare colors for parties
+                                'R' = 'red',
+                                'Swing(D)' = 'lightblue',
+                                'Swing(R)' = 'pink')
+                     ) +
+  geom_text(hjust = 0.5, vjust = -0.5) +  #add state abbrev
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(x = "Population", y = "Funding (Billions)",
+       title = "Population vs Funding by State (reduced)") +
+  theme_minimal() +
+   coord_cartesian(xlim = c(0, 1.5e+07), ylim = c(0, 10))
+```
+
+
+
+```{r}
+# Create a data frame for plotting
+plot_data <- data.frame(
+  Observation_Index = seq_along(lin_model$residuals),
+  Residuals = lin_model$residuals,
+  PARTY = master$PARTY,
+  abbr = master$abbr
+)
+
+# Create a ggplot
+ggplot(data = plot_data, aes(x = Observation_Index, y = Residuals, label = abbr, color = PARTY)) +
+  geom_point() +  # Add scatter points
+  scale_color_manual(values = c('D' = 'blue', #manually declare colors for parties
+                              'R' = 'red',
+                              'Swing(D)' = 'lightblue',
+                              'Swing(R)' = 'pink')
+                   ) +
+  geom_text(color = 'black',size = 3, nudge_x = .2, nudge_y = .2) +  # Add text labels with color
+  labs(x = "Observation Index", y = "Residuals") +
+  ggtitle("Residuals vs. Observation Index") +
+  theme_minimal()+
+  geom_hline(yintercept=0) +
+  geom_hline(yintercept = 1, linetype = 'dashed') +
+  geom_hline(yintercept = -1, linetype= 'dashed')
+```
+
+
+
+```{r}
+master[master$RESIDS > 0,] %>% arrange(desc(RESIDS)) %>% head(,n = 10) %>% select(abbr, STATE_NAME, POP_2021, TOTAL_BILLIONS, PARTY, LEAN, RESIDS)
+```
+
+```{r}
+master %>% arrange(desc(TOTAL_BILLIONS)) %>% head(, n = 10)
+```
+```{r}
+master[abs(master$RESIDS) >2,]
+```
+
+```{r}
+#highly useful : https://cran.r-project.org/web/packages/usmap/vignettes/mapping.html
+
+library(usmap)
+
+colnames(master)[1] <- "fips"
+colnames(master)[3] <- "abbr"
+colnames(master)[4] <- "full"
+
+
+centroid_labels <- usmapdata::centroid_labels("states")
+
+# Join centroids to data
+state_labels <- merge(master, centroid_labels, by = "fips", 
+                      suffixes = c("","")) #tried removing suffixes, unnecessary line
+
+state_labels <- state_labels[1:10] #dropping duplicate columns
+
+plot_usmap(data = master, values = "POP_2021", color = "black") + 
+   geom_text(data = state_labels, aes(
+    x = x, y = y,
+    label = abbr, fill = POP_2021), color = 'white') +
+  scale_fill_continuous(type = 'viridis',name = "Population",label = scales::comma) +
+  labs(title = "Pop. Distribution(2021)")+
+  theme(legend.position = "right")
+```
+
+```{r}
+plot_usmap(data = master, values = "TOTAL_BILLIONS", color = "black") + #establish plottable values
+   geom_text(data = state_labels, aes( #add state abbr to coordinate positions
+    x = x, y = y,
+    label = abbr, fill = TOTAL_BILLIONS), color = 'white') +
+  scale_fill_continuous(type = 'viridis',name = "Funding",label = scales::comma) +
+  labs(title = "Funding Distribution of IIJA") +
+  theme(legend.position = "right")
+```
+
+```{r}
+plot_usmap(data = master, values = "RESIDS", color = "black") + #establish plottable values
+   geom_text(data = state_labels, aes( #add state abbr to coordinate positions
+    x = x, y = y,
+    label = abbr, fill = RESIDS), color = 'white') +
+  scale_fill_continuous(type = 'viridis',name = "Funding",label = scales::comma) +
+  labs(title = "Residuals Distribution of IIJA", subtitle = "A plot highlighting difference between aid allocated and state population") +
+  theme(legend.position = "right")
+```
+
+```{r Adding Energy and Road}
+energy <- read_csv("C:/Users/dcrai/source/repos/DATA608/Major Assignments/Story 1/net_gen_elec_by_state.csv")
+
+energy$full <- toupper(energy$full)
+
+masterEnergy <- merge(state_labels,energy, by = "full")
+
+road <- read_csv("C:/Users/dcrai/source/repos/DATA608/Major Assignments/Story 1/Road Length by State.csv")
+road$full <- toupper(road$full)
+
+masterEnergyRoad <- merge(masterEnergy,road,by = "full")
+
+
+masterEnergyRoad
+```
+
+
+```{r}
+master <- left_join(master, masterEnergyRoad[,c("full","elec_gen_thmgw","rd_leng_miles")], by = "full")
+
+
+
+plot_usmap(data = master, values = "elec_gen_thmgw", color = "black") + #establish plottable values
+   geom_text(data = state_labels, aes( #add state abbr to coordinate positions
+    x = x, y = y,
+    label = abbr), color = 'white') +
+  scale_fill_continuous(type = 'viridis',name = "Elec. Generated",label = scales::comma) +
+  labs(title = "Electricity Generated by State (2021)", subtitle = "in Thousand Megawatt Hours") +
+  theme(legend.position = "right")
+
+
+plot_usmap(data = master, values = "rd_leng_miles", color = "black") + #establish plottable values
+   geom_text(data = state_labels, aes( #add state abbr to coordinate positions
+    x = x, y = y,
+    label = abbr), color = 'white') +
+  scale_fill_continuous(type = 'viridis',name = "Funding",label = scales::comma) +
+  labs(title = "Road Length(mi) by State 2021") +
+  theme(legend.position = "right")
+
+```
+

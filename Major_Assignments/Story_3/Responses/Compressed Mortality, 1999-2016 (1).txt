@@ -1,0 +1,397 @@
+"Notes"	"State"	"State Code"	"Cause of death"	"Cause of death Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	% of Total Deaths
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	47	4430141	1.1	0.8	1.4	1.1	0.4%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	33	4447100	0.7	0.5	1.0	0.7	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	37	4467634	0.8	0.6	1.1	0.8	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	36	4480089	0.8	0.6	1.1	0.8	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	34	4503491	0.8	0.5	1.1	0.7	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	27	4530729	0.6	0.4	0.9	0.6	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	34	4569805	0.7	0.5	1.0	0.7	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	35	4628981	0.8	0.5	1.1	0.8	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	22	4672840	0.5	0.3	0.7	0.5	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	29	4718206	0.6	0.4	0.9	0.6	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	27	4757938	0.6	0.4	0.8	0.6	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	33	4779736	0.7	0.5	1.0	0.7	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	23	4799918	0.5	0.3	0.7	0.5	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	11	4815960	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	20	4829479	0.4	0.3	0.6	0.4	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	21	4843214	0.4	0.3	0.7	0.5	0.2%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	17	4853875	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	19	4863300	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.2%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	17	5023823	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	12	5130632	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	12	5273477	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	22	5396255	0.4	0.3	0.6	0.4	0.2%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	11	5652404	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	12	5839077	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	11	6167681	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	20	2651860	0.8	0.5	1.2	0.8	0.2%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	10	2691571	0.4 (Unreliable)	0.2	0.7	0.4 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	15	2705927	0.6 (Unreliable)	0.3	0.9	0.5 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	15	2724816	0.6 (Unreliable)	0.3	0.9	0.5 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	13	2749686	0.5 (Unreliable)	0.3	0.8	0.5 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	14	2848650	0.5 (Unreliable)	0.3	0.8	0.5 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	15	2874554	0.5 (Unreliable)	0.3	0.9	0.5 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	11	2958663	0.4 (Unreliable)	0.2	0.7	0.4 (Unreliable)	0.1%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	16	2977853	0.5 (Unreliable)	0.3	0.9	0.5 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"1999"	"1999"	21	33499204	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Handgun discharge"	"W32"	"2000"	"2000"	21	33871648	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Handgun discharge"	"W32"	"2001"	"2001"	15	34479458	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2002"	"2002"	15	34871843	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2003"	"2003"	17	35253159	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2004"	"2004"	15	35574576	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2005"	"2005"	18	35827943	0.1 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.2%
+	"California"	"06"	"Handgun discharge"	"W32"	"2006"	"2006"	25	36021202	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Handgun discharge"	"W32"	"2007"	"2007"	19	36250311	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.2%
+	"California"	"06"	"Handgun discharge"	"W32"	"2008"	"2008"	11	36604337	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2009"	"2009"	11	36961229	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Handgun discharge"	"W32"	"2016"	"2016"	13	39250017	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2000"	"2000"	10	33871648	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2001"	"2001"	10	34479458	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2003"	"2003"	12	35253159	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2005"	"2005"	18	35827943	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	22	33499204	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	35	33871648	0.1	0.1	0.1	0.1	0.3%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	72	34479458	0.2	0.2	0.3	0.2	0.6%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	25	34871843	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	39	35253159	0.1	0.1	0.2	0.1	0.3%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	31	35574576	0.1	0.1	0.1	0.1	0.3%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	110	35827943	0.3	0.2	0.4	0.3	1.0%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	40	36021202	0.1	0.1	0.2	0.1	0.4%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	19	36250311	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	23	36604337	0.1	0.0	0.1	0.1	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	14	36961229	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	10	37253956	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	19	37676861	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	17	38011074	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	19	38335203	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.2%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	13	38680810	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	16	38993940	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	20	39250017	0.1	0.0	0.1	0.0	0.2%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	11	15759421	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	13	15982378	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	11	16356966	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	15	16689370	0.1 (Unreliable)	0.1	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	21	17004085	0.1	0.1	0.2	0.1	0.2%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	14	17415318	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	15	17842038	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	17	18166990	0.1 (Unreliable)	0.1	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	13	18367842	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	12	18527305	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	13	18652644	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	11	18801310	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	19	19096952	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.2%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	15	19344156	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	15	19582022	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	20	19888741	0.1	0.1	0.2	0.1	0.2%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	24	20244914	0.1	0.1	0.2	0.1	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	15	8045965	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	31	8186453	0.4	0.3	0.5	0.4	0.3%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	21	8377038	0.3	0.2	0.4	0.2	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	14	8508256	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	12	8622793	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	19	8769252	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	14	8925922	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	19	9155813	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	17	9349988	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	27	9504843	0.3	0.2	0.4	0.3	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	18	9620846	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	32	9687653	0.3	0.2	0.5	0.3	0.3%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	19	9811610	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	28	9914668	0.3	0.2	0.4	0.3	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	21	9984938	0.2	0.1	0.3	0.2	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	21	10087231	0.2	0.1	0.3	0.2	0.2%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	15	10199398	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	18	10310371	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	12	12359020	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	13	12488445	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	14	12525556	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	20	12556006	0.2	0.1	0.2	0.2	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	12	12589773	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	18	12609903	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	19	12643955	0.2 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	16	12695866	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	10	12747038	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	14	12796778	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	21	12830632	0.2	0.1	0.3	0.2	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	18	12860012	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.2%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	14	12870798	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	10	12879505	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	13	12839047	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	20	6044969	0.3	0.2	0.5	0.3	0.2%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	18	6080485	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.2%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	19	6127760	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.2%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	13	6155967	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	13	6196638	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	11	6233007	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	14	6332669	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	12	6379599	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	17	6424806	0.3 (Unreliable)	0.2	0.4	0.3 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	19	6459325	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.2%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	17	6483802	0.3 (Unreliable)	0.2	0.4	0.3 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	10	6516480	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	10	6537743	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	10	6569102	0.2 (Unreliable)	0.1	0.3	0.1 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	10	6595233	0.2 (Unreliable)	0.1	0.3	0.1 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	10	6612768	0.2 (Unreliable)	0.1	0.3	0.1 (Unreliable)	0.1%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	16	6633053	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	29	4018053	0.7	0.5	1.0	0.7	0.3%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	22	4041769	0.5	0.3	0.8	0.5	0.2%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	36	4068132	0.9	0.6	1.2	0.9	0.3%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	29	4089875	0.7	0.5	1.0	0.7	0.3%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	32	4117170	0.8	0.5	1.1	0.8	0.3%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	12	4146101	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	12	4182742	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	18	4219239	0.4 (Unreliable)	0.3	0.7	0.4 (Unreliable)	0.2%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	24	4256672	0.6	0.4	0.8	0.6	0.2%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	15	4289878	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	10	4339367	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	12	4369354	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	12	4384799	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	18	4400477	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.2%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	10	4413057	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	17	4436974	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	21	4460811	0.5	0.3	0.7	0.5	0.2%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	23	4468976	0.5	0.3	0.8	0.5	0.2%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	17	4477875	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	44	4497267	1.0	0.7	1.3	1.0	0.4%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	47	4521042	1.0	0.8	1.4	1.0	0.4%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	38	4552238	0.8	0.6	1.1	0.8	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	34	4576628	0.7	0.5	1.0	0.7	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	41	4302665	1.0	0.7	1.3	1.0	0.4%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	33	4375581	0.8	0.5	1.1	0.8	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	29	4435586	0.7	0.4	0.9	0.6	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	21	4491648	0.5	0.3	0.7	0.5	0.2%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	42	4533372	0.9	0.7	1.3	0.9	0.4%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	48	4575404	1.0	0.8	1.4	1.0	0.4%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	31	4603429	0.7	0.5	1.0	0.7	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	16	4626402	0.3 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	16	4647880	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	12	4668960	0.3 (Unreliable)	0.1	0.4	0.3 (Unreliable)	0.1%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	10	4681666	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	10	9991120	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	12	10055315	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	10	10051137	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	15	9883640	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	13	9917715	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	11	9928300	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Handgun discharge"	"W32"	"1999"	"1999"	10	2828408	0.4 (Unreliable)	0.2	0.7	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	28	2828408	1.0	0.7	1.4	1.0	0.2%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	13	2852994	0.5 (Unreliable)	0.2	0.8	0.4 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	10	2858681	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	13	2868312	0.5 (Unreliable)	0.2	0.8	0.4 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	10	2905943	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	10	2904978	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	14	2928350	0.5 (Unreliable)	0.3	0.8	0.5 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	12	2947806	0.4 (Unreliable)	0.2	0.7	0.4 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	18	2978162	0.6 (Unreliable)	0.4	1.0	0.6 (Unreliable)	0.2%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	10	2984945	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	10	2990482	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	13	2992400	0.4 (Unreliable)	0.2	0.7	0.4 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	13	2989390	0.4 (Unreliable)	0.2	0.7	0.4 (Unreliable)	0.1%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	14	2988726	0.5 (Unreliable)	0.3	0.8	0.5 (Unreliable)	0.1%
+	"Missouri"	"29"	"Handgun discharge"	"W32"	"2000"	"2000"	12	5595211	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2000"	"2000"	11	5595211	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	11	5790300	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	12	5842704	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	12	5887612	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	14	5923916	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	10	5961088	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	10	6010717	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"New Jersey"	"34"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	23	8552643	0.3	0.2	0.4	0.3	0.2%
+	"New Jersey"	"34"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	12	8661679	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"New Mexico"	"35"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	13	1877574	0.7 (Unreliable)	0.4	1.2	0.7 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	17	18882725	0.1 (Unreliable)	0.1	0.1	0.1 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	19	18976457	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.2%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	13	19082838	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	13	19137800	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	18	19175939	0.1 (Unreliable)	0.1	0.1	0.1 (Unreliable)	0.2%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	16	19171567	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	31	19132610	0.2	0.1	0.2	0.2	0.3%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	11	19104631	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	10	19307066	0.1 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	22	7949361	0.3	0.2	0.4	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	26	8049313	0.3	0.2	0.5	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	31	8210122	0.4	0.3	0.5	0.4	0.3%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	25	8326201	0.3	0.2	0.4	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	27	8422501	0.3	0.2	0.5	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	16	8553152	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	22	8705407	0.3	0.2	0.4	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	16	8917270	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	32	9118037	0.4	0.2	0.5	0.4	0.3%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	12	9309449	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	16	9449566	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	28	9535483	0.3	0.2	0.4	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	33	9650963	0.3	0.2	0.5	0.3	0.3%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	26	9746175	0.3	0.2	0.4	0.3	0.2%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	14	9841590	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	34	9934399	0.3	0.2	0.5	0.3	0.3%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	30	10035186	0.3	0.2	0.4	0.3	0.3%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	24	10146788	0.2	0.2	0.4	0.2	0.2%
+	"Ohio"	"39"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2000"	"2000"	10	11353140	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	26	11335454	0.2	0.1	0.3	0.2	0.2%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	22	11353140	0.2	0.1	0.3	0.2	0.2%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	13	11387404	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	16	11407889	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	17	11434788	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	12	11452251	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	18	11463320	0.2 (Unreliable)	0.1	0.2	0.2 (Unreliable)	0.2%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	22	11481213	0.2	0.1	0.3	0.2	0.2%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	10	11500468	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	10	11515391	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	15	11528896	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	16	11544824	0.1 (Unreliable)	0.1	0.2	0.2 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	13	11570022	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	12	11594408	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	13	11605090	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	10	11614373	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	22	3437147	0.6	0.4	1.0	0.6	0.2%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	17	3450654	0.5 (Unreliable)	0.3	0.8	0.5 (Unreliable)	0.1%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	12	3489080	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	12	3504892	0.3 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	10	3786274	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	34	12263805	0.3	0.2	0.4	0.3	0.3%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	38	12281054	0.3	0.2	0.4	0.3	0.3%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	21	12298970	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	22	12331031	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	16	12374658	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	21	12410722	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	30	12449990	0.2	0.2	0.3	0.2	0.3%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	24	12510809	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	19	12563937	0.2 (Unreliable)	0.1	0.2	0.2 (Unreliable)	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	28	12612285	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	16	12666858	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	25	12702379	0.2	0.1	0.3	0.2	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	17	12744293	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	61	12771854	0.5	0.4	0.6	0.5	0.5%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	19	12781338	0.1 (Unreliable)	0.1	0.2	0.2 (Unreliable)	0.2%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	12	12790565	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	15	12791904	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	15	12784227	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	23	3974682	0.6	0.4	0.9	0.6	0.2%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	14	4012012	0.3 (Unreliable)	0.2	0.6	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	12	4064995	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	27	4107795	0.7	0.4	1.0	0.6	0.2%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	20	4150297	0.5	0.3	0.7	0.5	0.2%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	13	4210921	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	30	4270150	0.7	0.5	1.0	0.7	0.3%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	10	4357847	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	10	4528996	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	13	4589872	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	17	4625364	0.4 (Unreliable)	0.2	0.6	0.4 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	15	4672637	0.3 (Unreliable)	0.2	0.5	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	22	4720760	0.5	0.3	0.7	0.5	0.2%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	13	4767894	0.3 (Unreliable)	0.1	0.5	0.3 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	10	4828430	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	17	4961119	0.3 (Unreliable)	0.2	0.5	0.4 (Unreliable)	0.1%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	42	5638706	0.7	0.5	1.0	0.7	0.4%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	39	5689283	0.7	0.5	0.9	0.7	0.3%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	40	5750789	0.7	0.5	0.9	0.7	0.4%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	40	5795918	0.7	0.5	0.9	0.7	0.4%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	33	5847812	0.6	0.4	0.8	0.6	0.3%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	36	5910809	0.6	0.4	0.8	0.6	0.3%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	32	5991057	0.5	0.4	0.8	0.5	0.3%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	23	6088766	0.4	0.2	0.6	0.4	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	22	6175727	0.4	0.2	0.5	0.4	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	15	6247411	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	25	6306019	0.4	0.3	0.6	0.4	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	25	6346105	0.4	0.3	0.6	0.4	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	22	6397634	0.3	0.2	0.5	0.3	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	20	6454306	0.3	0.2	0.5	0.3	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	18	6494821	0.3 (Unreliable)	0.2	0.4	0.3 (Unreliable)	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	26	6595056	0.4	0.3	0.6	0.4	0.2%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	16	6651194	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Texas"	"48"	"Handgun discharge"	"W32"	"2010"	"2010"	10	25145561	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"1999"	"1999"	13	20558220	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2001"	"2001"	10	21319622	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2002"	"2002"	14	21690325	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2003"	"2003"	12	22030931	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2004"	"2004"	11	22394023	0.0 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2005"	"2005"	11	22778123	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2007"	"2007"	11	23831983	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2008"	"2008"	10	24309039	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2011"	"2011"	10	25646389	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	"2015"	"2015"	11	27429639	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	47	20558220	0.2	0.2	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2000"	"2000"	45	20851820	0.2	0.2	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2001"	"2001"	41	21319622	0.2	0.1	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2002"	"2002"	30	21690325	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2003"	"2003"	43	22030931	0.2	0.1	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2004"	"2004"	48	22394023	0.2	0.2	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2005"	"2005"	43	22778123	0.2	0.1	0.3	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	31	23359580	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2007"	"2007"	59	23831983	0.2	0.2	0.3	0.2	0.5%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	29	24309039	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2009"	"2009"	44	24801761	0.2	0.1	0.2	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2010"	"2010"	37	25145561	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2011"	"2011"	40	25646389	0.2	0.1	0.2	0.2	0.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2012"	"2012"	35	26071655	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2013"	"2013"	32	26473525	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2014"	"2014"	31	26944751	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2015"	"2015"	30	27429639	0.1	0.1	0.2	0.1	0.3%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	"2016"	"2016"	36	27862596	0.1	0.1	0.2	0.1	0.3%
+	"Virginia"	"51"	"Discharge from other and unspecified firearms"	"W34"	"1999"	"1999"	17	7000174	0.2 (Unreliable)	0.1	0.4	0.2 (Unreliable)	0.1%
+	"Washington"	"53"	"Handgun discharge"	"W32"	"1999"	"1999"	11	5842564	0.2 (Unreliable)	0.1	0.3	0.2 (Unreliable)	0.1%
+	"West Virginia"	"54"	"Discharge from other and unspecified firearms"	"W34"	"2006"	"2006"	12	1827912	0.7 (Unreliable)	0.3	1.1	0.6 (Unreliable)	0.1%
+	"West Virginia"	"54"	"Discharge from other and unspecified firearms"	"W34"	"2008"	"2008"	21	1840310	1.1	0.7	1.7	1.2	0.2%
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"ICD-10 Codes: W32 (Handgun discharge); W33 (Rifle, shotgun and larger firearm discharge); W34 (Discharge from other and"
+"unspecified firearms)"
+"Group By: State; Cause of death; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Oct 4, 2023 2:31:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 4, 2023"
+"2:31:49 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, death counts and rates are suppressed when the number of deaths is less than 10. Figures"
+"representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About population figures for regions, divisions, states and counties: population figures for 1999 are from the 1990-1999"
+"series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010 are"
+"bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#ICD-10 Changes."
+"10. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"11. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"12. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"13. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."

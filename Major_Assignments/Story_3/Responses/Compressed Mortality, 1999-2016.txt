@@ -1,0 +1,188 @@
+"Notes"	"State"	"State Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	% of Total Deaths
+	"Alabama"	"01"	"Handgun discharge"	"W32"	26	83992436	0.0	0.0	0.0	0.0	0.2%
+	"Alabama"	"01"	"Rifle, shotgun and larger firearm discharge"	"W33"	36	83992436	0.0	0.0	0.1	0.0	0.3%
+	"Alabama"	"01"	"Discharge from other and unspecified firearms"	"W34"	505	83992436	0.6	0.5	0.7	0.6	4.4%
+	"Alaska"	"02"	"Rifle, shotgun and larger firearm discharge"	"W33"	11	12361580	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Alaska"	"02"	"Discharge from other and unspecified firearms"	"W34"	27	12361580	0.2	0.1	0.3	0.2	0.2%
+	"Arizona"	"04"	"Handgun discharge"	"W32"	35	109148430	0.0	0.0	0.0	0.0	0.3%
+	"Arizona"	"04"	"Rifle, shotgun and larger firearm discharge"	"W33"	11	109148430	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"Arizona"	"04"	"Discharge from other and unspecified firearms"	"W34"	158	109148430	0.1	0.1	0.2	0.1	1.4%
+	"Arkansas"	"05"	"Handgun discharge"	"W32"	36	51117937	0.1	0.0	0.1	0.1	0.3%
+	"Arkansas"	"05"	"Rifle, shotgun and larger firearm discharge"	"W33"	49	51117937	0.1	0.1	0.1	0.1	0.4%
+	"Arkansas"	"05"	"Discharge from other and unspecified firearms"	"W34"	196	51117937	0.4	0.3	0.4	0.4	1.7%
+	"California"	"06"	"Handgun discharge"	"W32"	248	657416771	0.0	0.0	0.0	0.0	2.2%
+	"California"	"06"	"Rifle, shotgun and larger firearm discharge"	"W33"	108	657416771	0.0	0.0	0.0	0.0	0.9%
+	"California"	"06"	"Discharge from other and unspecified firearms"	"W34"	544	657416771	0.1	0.1	0.1	0.1	4.8%
+	"Colorado"	"08"	"Handgun discharge"	"W32"	24	87509259	0.0	0.0	0.0	0.0	0.2%
+	"Colorado"	"08"	"Rifle, shotgun and larger firearm discharge"	"W33"	21	87509259	0.0	0.0	0.0	0.0	0.2%
+	"Colorado"	"08"	"Discharge from other and unspecified firearms"	"W34"	79	87509259	0.1	0.1	0.1	0.1	0.7%
+	"Connecticut"	"09"	"Discharge from other and unspecified firearms"	"W34"	38	63429895	0.1	0.0	0.1	0.1	0.3%
+	"Delaware"	"10"	"Discharge from other and unspecified firearms"	"W34"	12	15640370	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"District of Columbia"	"11"	"Discharge from other and unspecified firearms"	"W34"	18	10828119	0.2 (Unreliable)	0.1	0.3	0.1 (Unreliable)	0.2%
+	"Florida"	"12"	"Handgun discharge"	"W32"	76	328334891	0.0	0.0	0.0	0.0	0.7%
+	"Florida"	"12"	"Rifle, shotgun and larger firearm discharge"	"W33"	52	328334891	0.0	0.0	0.0	0.0	0.5%
+	"Florida"	"12"	"Discharge from other and unspecified firearms"	"W34"	265	328334891	0.1	0.1	0.1	0.1	2.3%
+	"Georgia"	"13"	"Handgun discharge"	"W32"	52	167063038	0.0	0.0	0.0	0.0	0.5%
+	"Georgia"	"13"	"Rifle, shotgun and larger firearm discharge"	"W33"	41	167063038	0.0	0.0	0.0	0.0	0.4%
+	"Georgia"	"13"	"Discharge from other and unspecified firearms"	"W34"	361	167063038	0.2	0.2	0.2	0.2	3.2%
+	"Hawaii"	"15"	"Discharge from other and unspecified firearms"	"W34"	11	23815715	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Idaho"	"16"	"Handgun discharge"	"W32"	36	26805064	0.1	0.1	0.2	0.1	0.3%
+	"Idaho"	"16"	"Rifle, shotgun and larger firearm discharge"	"W33"	24	26805064	0.1	0.1	0.1	0.1	0.2%
+	"Idaho"	"16"	"Discharge from other and unspecified firearms"	"W34"	42	26805064	0.2	0.1	0.2	0.2	0.4%
+	"Illinois"	"17"	"Handgun discharge"	"W32"	35	228380710	0.0	0.0	0.0	0.0	0.3%
+	"Illinois"	"17"	"Rifle, shotgun and larger firearm discharge"	"W33"	43	228380710	0.0	0.0	0.0	0.0	0.4%
+	"Illinois"	"17"	"Discharge from other and unspecified firearms"	"W34"	244	228380710	0.1	0.1	0.1	0.1	2.1%
+	"Indiana"	"18"	"Handgun discharge"	"W32"	52	114662022	0.0	0.0	0.1	0.0	0.5%
+	"Indiana"	"18"	"Rifle, shotgun and larger firearm discharge"	"W33"	22	114662022	0.0	0.0	0.0	0.0	0.2%
+	"Indiana"	"18"	"Discharge from other and unspecified firearms"	"W34"	248	114662022	0.2	0.2	0.2	0.2	2.2%
+	"Iowa"	"19"	"Handgun discharge"	"W32"	27	54246275	0.0	0.0	0.1	0.0	0.2%
+	"Iowa"	"19"	"Rifle, shotgun and larger firearm discharge"	"W33"	27	54246275	0.0	0.0	0.1	0.1	0.2%
+	"Iowa"	"19"	"Discharge from other and unspecified firearms"	"W34"	25	54246275	0.0	0.0	0.1	0.0	0.2%
+	"Kansas"	"20"	"Handgun discharge"	"W32"	22	50386699	0.0	0.0	0.1	0.0	0.2%
+	"Kansas"	"20"	"Rifle, shotgun and larger firearm discharge"	"W33"	19	50386699	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.2%
+	"Kansas"	"20"	"Discharge from other and unspecified firearms"	"W34"	82	50386699	0.2	0.1	0.2	0.2	0.7%
+	"Kentucky"	"21"	"Handgun discharge"	"W32"	36	76515344	0.0	0.0	0.1	0.0	0.3%
+	"Kentucky"	"21"	"Rifle, shotgun and larger firearm discharge"	"W33"	54	76515344	0.1	0.1	0.1	0.1	0.5%
+	"Kentucky"	"21"	"Discharge from other and unspecified firearms"	"W34"	323	76515344	0.4	0.4	0.5	0.4	2.8%
+	"Louisiana"	"22"	"Handgun discharge"	"W32"	30	81497430	0.0	0.0	0.1	0.0	0.3%
+	"Louisiana"	"22"	"Rifle, shotgun and larger firearm discharge"	"W33"	39	81497430	0.0	0.0	0.1	0.0	0.3%
+	"Louisiana"	"22"	"Discharge from other and unspecified firearms"	"W34"	523	81497430	0.6	0.6	0.7	0.6	4.6%
+	"Maryland"	"24"	"Discharge from other and unspecified firearms"	"W34"	56	102114446	0.1	0.0	0.1	0.1	0.5%
+	"Massachusetts"	"25"	"Discharge from other and unspecified firearms"	"W34"	28	117417917	0.0	0.0	0.0	0.0	0.2%
+	"Michigan"	"26"	"Handgun discharge"	"W32"	21	179183694	0.0	0.0	0.0	0.0	0.2%
+	"Michigan"	"26"	"Rifle, shotgun and larger firearm discharge"	"W33"	39	179183694	0.0	0.0	0.0	0.0	0.3%
+	"Michigan"	"26"	"Discharge from other and unspecified firearms"	"W34"	154	179183694	0.1	0.1	0.1	0.1	1.3%
+	"Minnesota"	"27"	"Handgun discharge"	"W32"	12	93861342	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"Minnesota"	"27"	"Rifle, shotgun and larger firearm discharge"	"W33"	24	93861342	0.0	0.0	0.0	0.0	0.2%
+	"Minnesota"	"27"	"Discharge from other and unspecified firearms"	"W34"	49	93861342	0.1	0.0	0.1	0.1	0.4%
+	"Mississippi"	"28"	"Handgun discharge"	"W32"	90	52679316	0.2	0.1	0.2	0.2	0.8%
+	"Mississippi"	"28"	"Rifle, shotgun and larger firearm discharge"	"W33"	75	52679316	0.1	0.1	0.2	0.1	0.7%
+	"Mississippi"	"28"	"Discharge from other and unspecified firearms"	"W34"	215	52679316	0.4	0.4	0.5	0.4	1.9%
+	"Missouri"	"29"	"Handgun discharge"	"W32"	103	105633794	0.1	0.1	0.1	0.1	0.9%
+	"Missouri"	"29"	"Rifle, shotgun and larger firearm discharge"	"W33"	92	105633794	0.1	0.1	0.1	0.1	0.8%
+	"Missouri"	"29"	"Discharge from other and unspecified firearms"	"W34"	156	105633794	0.1	0.1	0.2	0.1	1.4%
+	"Montana"	"30"	"Handgun discharge"	"W32"	14	17390072	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.1%
+	"Montana"	"30"	"Rifle, shotgun and larger firearm discharge"	"W33"	16	17390072	0.1 (Unreliable)	0.1	0.1	0.1 (Unreliable)	0.1%
+	"Montana"	"30"	"Discharge from other and unspecified firearms"	"W34"	52	17390072	0.3	0.2	0.4	0.3	0.5%
+	"Nebraska"	"31"	"Rifle, shotgun and larger firearm discharge"	"W33"	12	32353793	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Nebraska"	"31"	"Discharge from other and unspecified firearms"	"W34"	59	32353793	0.2	0.1	0.2	0.2	0.5%
+	"Nevada"	"32"	"Handgun discharge"	"W32"	20	45309193	0.0	0.0	0.1	0.0	0.2%
+	"Nevada"	"32"	"Discharge from other and unspecified firearms"	"W34"	47	45309193	0.1	0.1	0.1	0.1	0.4%
+	"New Hampshire"	"33"	"Handgun discharge"	"W32"	10	23376257	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"New Hampshire"	"33"	"Discharge from other and unspecified firearms"	"W34"	18	23376257	0.1 (Unreliable)	0.0	0.1	0.1 (Unreliable)	0.2%
+	"New Jersey"	"34"	"Handgun discharge"	"W32"	13	156723850	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"New Jersey"	"34"	"Rifle, shotgun and larger firearm discharge"	"W33"	21	156723850	0.0	0.0	0.0	0.0	0.2%
+	"New Jersey"	"34"	"Discharge from other and unspecified firearms"	"W34"	106	156723850	0.1	0.1	0.1	0.1	0.9%
+	"New Mexico"	"35"	"Handgun discharge"	"W32"	34	35577733	0.1	0.1	0.1	0.1	0.3%
+	"New Mexico"	"35"	"Rifle, shotgun and larger firearm discharge"	"W33"	22	35577733	0.1	0.0	0.1	0.1	0.2%
+	"New Mexico"	"35"	"Discharge from other and unspecified firearms"	"W34"	48	35577733	0.1	0.1	0.2	0.1	0.4%
+	"New York"	"36"	"Handgun discharge"	"W32"	16	347701337	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"New York"	"36"	"Rifle, shotgun and larger firearm discharge"	"W33"	42	347701337	0.0	0.0	0.0	0.0	0.4%
+	"New York"	"36"	"Discharge from other and unspecified firearms"	"W34"	191	347701337	0.1	0.0	0.1	0.1	1.7%
+	"North Carolina"	"37"	"Handgun discharge"	"W32"	22	163900963	0.0	0.0	0.0	0.0	0.2%
+	"North Carolina"	"37"	"Rifle, shotgun and larger firearm discharge"	"W33"	46	163900963	0.0	0.0	0.0	0.0	0.4%
+	"North Carolina"	"37"	"Discharge from other and unspecified firearms"	"W34"	434	163900963	0.3	0.2	0.3	0.3	3.8%
+	"North Dakota"	"38"	"Rifle, shotgun and larger firearm discharge"	"W33"	12	12156945	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Ohio"	"39"	"Handgun discharge"	"W32"	38	206876274	0.0	0.0	0.0	0.0	0.3%
+	"Ohio"	"39"	"Rifle, shotgun and larger firearm discharge"	"W33"	52	206876274	0.0	0.0	0.0	0.0	0.5%
+	"Ohio"	"39"	"Discharge from other and unspecified firearms"	"W34"	259	206876274	0.1	0.1	0.1	0.1	2.3%
+	"Oklahoma"	"40"	"Handgun discharge"	"W32"	60	65953258	0.1	0.1	0.1	0.1	0.5%
+	"Oklahoma"	"40"	"Rifle, shotgun and larger firearm discharge"	"W33"	59	65953258	0.1	0.1	0.1	0.1	0.5%
+	"Oklahoma"	"40"	"Discharge from other and unspecified firearms"	"W34"	143	65953258	0.2	0.2	0.3	0.2	1.3%
+	"Oregon"	"41"	"Handgun discharge"	"W32"	54	67107832	0.1	0.1	0.1	0.1	0.5%
+	"Oregon"	"41"	"Rifle, shotgun and larger firearm discharge"	"W33"	39	67107832	0.1	0.0	0.1	0.1	0.3%
+	"Oregon"	"41"	"Discharge from other and unspecified firearms"	"W34"	31	67107832	0.0	0.0	0.1	0.0	0.3%
+	"Pennsylvania"	"42"	"Handgun discharge"	"W32"	25	226130679	0.0	0.0	0.0	0.0	0.2%
+	"Pennsylvania"	"42"	"Rifle, shotgun and larger firearm discharge"	"W33"	39	226130679	0.0	0.0	0.0	0.0	0.3%
+	"Pennsylvania"	"42"	"Discharge from other and unspecified firearms"	"W34"	433	226130679	0.2	0.2	0.2	0.2	3.8%
+	"South Carolina"	"45"	"Handgun discharge"	"W32"	21	80182715	0.0	0.0	0.0	0.0	0.2%
+	"South Carolina"	"45"	"Rifle, shotgun and larger firearm discharge"	"W33"	53	80182715	0.1	0.0	0.1	0.1	0.5%
+	"South Carolina"	"45"	"Discharge from other and unspecified firearms"	"W34"	284	80182715	0.4	0.3	0.4	0.4	2.5%
+	"South Dakota"	"46"	"Handgun discharge"	"W32"	23	14407588	0.2	0.1	0.2	0.2	0.2%
+	"South Dakota"	"46"	"Rifle, shotgun and larger firearm discharge"	"W33"	33	14407588	0.2	0.2	0.3	0.2	0.3%
+	"Tennessee"	"47"	"Handgun discharge"	"W32"	24	110926076	0.0	0.0	0.0	0.0	0.2%
+	"Tennessee"	"47"	"Rifle, shotgun and larger firearm discharge"	"W33"	50	110926076	0.0	0.0	0.1	0.0	0.4%
+	"Tennessee"	"47"	"Discharge from other and unspecified firearms"	"W34"	483	110926076	0.4	0.4	0.5	0.4	4.2%
+	"Texas"	"48"	"Handgun discharge"	"W32"	104	433499543	0.0	0.0	0.0	0.0	0.9%
+	"Texas"	"48"	"Rifle, shotgun and larger firearm discharge"	"W33"	162	433499543	0.0	0.0	0.0	0.0	1.4%
+	"Texas"	"48"	"Discharge from other and unspecified firearms"	"W34"	701	433499543	0.2	0.1	0.2	0.2	6.1%
+	"Utah"	"49"	"Handgun discharge"	"W32"	15	47096459	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"Utah"	"49"	"Rifle, shotgun and larger firearm discharge"	"W33"	12	47096459	0.0 (Unreliable)	0.0	0.0	0.0 (Unreliable)	0.1%
+	"Utah"	"49"	"Discharge from other and unspecified firearms"	"W34"	25	47096459	0.1	0.0	0.1	0.1	0.2%
+	"Vermont"	"50"	"Discharge from other and unspecified firearms"	"W34"	11	11179230	0.1 (Unreliable)	0.0	0.2	0.1 (Unreliable)	0.1%
+	"Virginia"	"51"	"Handgun discharge"	"W32"	53	139830305	0.0	0.0	0.0	0.0	0.5%
+	"Virginia"	"51"	"Rifle, shotgun and larger firearm discharge"	"W33"	54	139830305	0.0	0.0	0.1	0.0	0.5%
+	"Virginia"	"51"	"Discharge from other and unspecified firearms"	"W34"	124	139830305	0.1	0.1	0.1	0.1	1.1%
+	"Washington"	"53"	"Handgun discharge"	"W32"	64	117289596	0.1	0.0	0.1	0.1	0.6%
+	"Washington"	"53"	"Rifle, shotgun and larger firearm discharge"	"W33"	21	117289596	0.0	0.0	0.0	0.0	0.2%
+	"Washington"	"53"	"Discharge from other and unspecified firearms"	"W34"	42	117289596	0.0	0.0	0.0	0.0	0.4%
+	"West Virginia"	"54"	"Handgun discharge"	"W32"	14	32964738	0.0 (Unreliable)	0.0	0.1	0.0 (Unreliable)	0.1%
+	"West Virginia"	"54"	"Rifle, shotgun and larger firearm discharge"	"W33"	43	32964738	0.1	0.1	0.2	0.1	0.4%
+	"West Virginia"	"54"	"Discharge from other and unspecified firearms"	"W34"	107	32964738	0.3	0.3	0.4	0.3	0.9%
+	"Wisconsin"	"55"	"Handgun discharge"	"W32"	46	100757056	0.0	0.0	0.1	0.0	0.4%
+	"Wisconsin"	"55"	"Rifle, shotgun and larger firearm discharge"	"W33"	55	100757056	0.1	0.0	0.1	0.1	0.5%
+	"Wisconsin"	"55"	"Discharge from other and unspecified firearms"	"W34"	35	100757056	0.0	0.0	0.0	0.0	0.3%
+	"Wyoming"	"56"	"Handgun discharge"	"W32"	11	9716887	0.1 (Unreliable)	0.1	0.2	0.1 (Unreliable)	0.1%
+	"Wyoming"	"56"	"Discharge from other and unspecified firearms"	"W34"	32	9716887	0.3	0.2	0.5	0.3	0.3%
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"ICD-10 Codes: W32 (Handgun discharge); W33 (Rifle, shotgun and larger firearm discharge); W34 (Discharge from other and"
+"unspecified firearms)"
+"Group By: State; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Oct 4, 2023 2:29:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the"
+"Compressed Mortality File 1999-2016 Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics"
+"jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 4, 2023"
+"2:29:27 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, death counts and rates are suppressed when the number of deaths is less than 10. Figures"
+"representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About population figures for regions, divisions, states and counties: population figures for 1999 are from the 1990-1999"
+"series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010 are"
+"bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#ICD-10 Changes."
+"10. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"11. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"12. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"13. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."
