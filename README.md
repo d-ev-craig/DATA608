@@ -19,3 +19,10 @@ This assignment focused on idnetifying at-risk critical minerals and their sourc
 ![Enemy_Sourced](Major_Assignments/Story_7/figs/Enemy_Sourced.png)
 ![Shortfall_Impact](Major_Assignments/Story_7/figs/Shortfall.png)
 
+
+
+
+Other assignments broken down by stores, can be seen below:
+
+## Story 1: Does the allocation of IIJA Funding have political bias?
+![Story 1](Major_Assignments/Story_1/Story1_Executive_Summary.gif)
