@@ -26,3 +26,20 @@ Other assignments broken down by stores, can be seen below:
 
 ## Story 1: Does the allocation of IIJA Funding have political bias?
 ![Story 1](Major_Assignments/Story_1/Story1_Executive_Summary.gif)
+
+
+## Story 2: Has the Federal Reserve fulfilled its mandate of maintaining low unemployment and control inflation?
+![Story_2](Major_Assignments/Story_2/Story2.gif)
+
+## Story 3: Do stricter firearm control laws reduce firearm mortality?
+![Story_3](Major_Assignments/Story_3/Story3.gif)
+
+## Story 5: Has rising temperatures impacted the intensity of tropical storms?
+![Story_5](Major_Assignments/Story_5/Story5_DCraig.gif)
+
+## Story 6: How does Food Insecurity impact individuals success and health in adulthood?
+![Story_6](Major_Assignments/Story_6/Story6_DCraig.gif)
+![Story_6PDF](Major_Assignments/Story_6/Story6_DCraig.pdf)
+
+## Story 7: Of the Critical Minerals for societal stability, which are unreliable and what alternatives are there?
+![Story_7](Major_Assignments/Story_7/Story7_DCraig.gif)
