@@ -1,7 +1,7 @@
 # DATA608 Knowledge & Visual Analytics
 This course focused on producing visualizations and building expertise in plotting packages. While a breadth of packages were required, when free choice was allowed I utilized Python's Plotly package.
 
-Below highlights some of the better visualizations, but the markdown will cover most of the major assignments. Note that the assignments typically held a political or societal topic and the resulting plots are not meant to express personal or political opinions.
+Below highlights some of the better visualizations, but the markdown will cover most of the major assignments. Note that the assignments typically held a political or societal topic and the resulting plots are <b>not meant to express personal or political opinions.</b>
 
 ## Impact of Storms, Temperature, and Wind Speed over Time
 The context behind this assignment was to connect the relationship between rising temperatures and storm intensity. While not all of the images are placed here, a few of the pertinet ones are below.
