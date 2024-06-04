@@ -27,7 +27,6 @@ Other assignments broken down by stores, can be seen below as rolling gif's with
 ## Story 1: Does the allocation of IIJA Funding have political bias?
 ![Story 1](Major_Assignments/Story_1/Story1_Executive_Summary.gif)
 
-
 ## Story 2: Has the Federal Reserve fulfilled its mandate of maintaining low unemployment and control inflation?
 ![Story_2](Major_Assignments/Story_2/Story_2.gif)
 
@@ -39,5 +38,5 @@ Other assignments broken down by stores, can be seen below as rolling gif's with
 
 ## Story 6: How does Food Insecurity impact individual success and health in adulthood?
 ![Story_6](Major_Assignments/Story_6/Story6_DCraig.gif)
-![Story_6PDF](Major_Assignments/Story_6/Story6_DCraig.pdf)
+
 
