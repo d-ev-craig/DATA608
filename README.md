@@ -22,7 +22,7 @@ This assignment focused on idnetifying at-risk critical minerals and their sourc
 
 
 
-Other assignments broken down by stores, can be seen below:
+Other assignments broken down by stores, can be seen below as rolling gif's with 7 seconds for each image.
 
 ## Story 1: Does the allocation of IIJA Funding have political bias?
 ![Story 1](Major_Assignments/Story_1/Story1_Executive_Summary.gif)
@@ -37,7 +37,7 @@ Other assignments broken down by stores, can be seen below:
 ## Story 5: Has rising temperatures impacted the intensity of tropical storms?
 ![Story_5](Major_Assignments/Story_5/Story5_DCraig.gif)
 
-## Story 6: How does Food Insecurity impact individuals success and health in adulthood?
+## Story 6: How does Food Insecurity impact individual success and health in adulthood?
 ![Story_6](Major_Assignments/Story_6/Story6_DCraig.gif)
 ![Story_6PDF](Major_Assignments/Story_6/Story6_DCraig.pdf)
 
